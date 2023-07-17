@@ -1,3 +1,5 @@
+// using Binary Search
+// O(LogN)
 #include<iostream>
 #include<vector>
 using namespace std;
