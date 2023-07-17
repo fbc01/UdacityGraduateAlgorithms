@@ -1,5 +1,5 @@
 // using Dynamic Programming
-// O(N)
+// O(N^2)
 #include<iostream>
 #include<vector>
 using namespace std;

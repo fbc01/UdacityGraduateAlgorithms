@@ -1,5 +1,5 @@
 // using Binary Search
-// O(LogN)
+// O(NLogN)
 #include<iostream>
 #include<vector>
 using namespace std;
