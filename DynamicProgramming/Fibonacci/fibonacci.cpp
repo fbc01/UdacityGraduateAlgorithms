@@ -1,4 +1,5 @@
 // using dynamic programming
+// O(N)
 #include<iostream>
 #include<vector>
 using namespace std;

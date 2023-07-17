@@ -1,4 +1,5 @@
 // using matrix exponentiation
+// O(LogN)
 #include<iostream>
 #include<vector>
 using namespace std;
